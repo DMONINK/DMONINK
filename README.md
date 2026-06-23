@@ -23,14 +23,13 @@
 - 🤖 Designer of **Spark**, a Discord bot for social matchmaking, and **cocdot**, a command-driven Discord bot.
 - 📦 Building **AutoDrop AI**, an Android dropshipping app for the Indian e-commerce market powered by Gemini AI flows.
 - 🎮 Outside of code: anime/manga, Valorant lore, cyberpunk-anime music production, and speculative worldbuilding.
-- ⚡ Fun fact: I'd rather simulate a civilization than balance my own spreadsheet — which is exactly why I built an expense tracker instead.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,flask,discordjs,react,html,css,kotlin,android,androidstudio,git,github,replit,heroku,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,flask,discordjs,react,html,css,kotlin,androidstudio,git,github,replit,heroku,vscode&theme=dark" />
 </div>
 
 ---
