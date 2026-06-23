@@ -108,9 +108,8 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DMONINK-181717?style=for-the-badge&logo=github)](https://github.com/DMONINK)
-[![Discord](https://img.shields.io/badge/Discord-Add%20Tag-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add%20Address-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-Add%20Tag-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/612803327675334673)
+[![Email](https://img.shields.io/badge/Email-Add%20Address-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sahnisatinder2@gmail.com)
 
 </div>
 
