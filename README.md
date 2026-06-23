@@ -102,50 +102,6 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 <img src="https://raw.githubusercontent.com/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<details>
-<summary>⚙️ Setup instructions (one-time, ~2 min)</summary>
-
-<br/>
-
-The snake above won't render until you add this GitHub Action to **this repo** (the special `DMONINK/DMONINK` repo). Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DMONINK
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-      - run: |
-          cp -r dist/* .
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          branch: output
-          file_pattern: '*.svg'
-```
-
-Push it, run the workflow once manually (Actions tab → Generate Snake → Run workflow), and the snake will animate your contribution graph going forward.
-
-</details>
-
 ---
 
 ### 🌐 Connect With Me
