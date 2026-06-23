@@ -67,14 +67,6 @@ Full-stack web app for logging income/expenses and visualizing spending trends.
 Android dropshipping app concept for the Indian market, built around Gemini AI flows.
 `Android` `Kotlin` `Gemini AI`
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DMONINK&repo=Live-Simulation&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ### 📊 GitHub Stats
