@@ -71,6 +71,10 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 </tr>
 </table>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DMONINK&repo=Live-Simulation&theme=tokyonight&hide_border=true" />
+</div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -91,8 +95,6 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 </div>
 
 ---
-
-### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg" width="100%"/>
