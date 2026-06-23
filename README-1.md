@@ -99,12 +99,6 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMONINK&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DMONINK&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
-
-> ⚙️ **WakaTime card needs setup:** the `username` here must be your **WakaTime** username, not GitHub. Create a free account at [wakatime.com](https://wakatime.com), install the plugin for your editor (VS Code, Android Studio, etc.), and turn on both **"Display code time publicly"** and **"Display languages, editors, os, categories publicly"** in your WakaTime profile settings. Data can take up to 24h to appear after signup. Swap `DMONINK` in the URL above for your real WakaTime username once set up.
-
 ---
 
 ### 🐍 Contribution Snake
