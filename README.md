@@ -99,9 +99,18 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 </div>
 
 ---
+
 ### 🐍 Contribution Snake
 <div align="center">
 <img src="https://raw.githubusercontent.com/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+### 🎧 Listening To
+
+<div align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mybvdvoctptlky35rkgkphj63i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 ---
