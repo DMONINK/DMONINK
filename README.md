@@ -91,16 +91,27 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DMONINK&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMONINK&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/DMONINK/DMONINK/output/github-contribution-grid-snake-dark.svg" width="100%"/>
