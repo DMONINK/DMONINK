@@ -94,6 +94,10 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMONINK&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=DMONINK&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
 ---
 
 <div align="center">
