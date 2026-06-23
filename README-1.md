@@ -213,7 +213,7 @@ Commit it, then run it once manually (Actions tab → GitHub-Profile-3D-Contrib 
 ### 🎧 Now Playing
 
 <div align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=C792EA&bar_color_cover=false" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mybvdvoctptlky35rkgkphj63i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 <details>
