@@ -1,0 +1,15 @@
+name: Update Quote Readme
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: siddharth2016/quote-readme@main
+        with:
+          OPTION: "both"
