@@ -216,19 +216,6 @@ Commit it, then run it once manually (Actions tab → GitHub-Profile-3D-Contrib 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mybvdvoctptlky35rkgkphj63i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
-<details>
-<summary>⚙️ Setup instructions (one-time, ~1 min — no Vercel deploy needed)</summary>
-
-<br/>
-
-1. Click this to connect your Spotify account: [Connect with Spotify](https://spotify-github-profile.kittinanx.com/api/login)
-2. After authorizing, you'll be given a `uid` — copy it
-3. Replace `YOUR_SPOTIFY_UID` in the image URL above with that value
-
-Themes available: `default`, `compact`, `natemoo-re`, `novatorem` (used above), `karaoke`, `spotify-embed`. Card auto-updates to show your currently playing track, or your last played if you're offline (add `&show_offline=true` to keep showing last track instead of going blank).
-
-</details>
-
 ---
 
 ### 💬 Random Quote & Dev Joke
