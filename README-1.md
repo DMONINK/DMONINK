@@ -231,35 +231,6 @@ Commit it, then run it once manually (Actions tab → GitHub-Profile-3D-Contrib 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
-<details>
-<summary>⚙️ Setup instructions for the quote (one-time, ~2 min) — the jokes card above needs no setup</summary>
-
-<br/>
-
-The jokes card is a live hosted image, already working as-is. The quote section needs one small GitHub Action since it writes text directly into this README. Create `.github/workflows/quote.yml` in **this repo**:
-
-```yaml
-name: Update Quote Readme
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 2 * * *"
-
-jobs:
-  update-readme:
-    name: Update Quote README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: siddharth2016/quote-readme@main
-        with:
-          OPTION: "both"
-```
-
-Commit it, then run it once manually (Actions tab → Update Quote Readme → Run workflow). It'll replace the text between the `<!--START_SECTION:quote-->` and `<!--END_SECTION:quote-->` comments above with a random quote or dev fun-fact, refreshing daily.
-
-</details>
-
 ---
 
 ### 🌐 Connect With Me
