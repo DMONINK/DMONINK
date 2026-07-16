@@ -72,7 +72,7 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DMONINK&repo=Live-Simulation&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DMONINK&repo=Live-Simulation&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </div>
 
 ---
@@ -81,8 +81,8 @@ Android dropshipping app concept for the Indian market, built around Gemini AI f
 
 <table width="100%">
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=DMONINK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMONINK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></td>
+<td width="50%"><img src="https://github-stats-extended.vercel.app/api?username=DMONINK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /></td>
+<td width="50%"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DMONINK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></td>
 </tr>
 </table>
 
